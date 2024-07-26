@@ -1,3 +1,5 @@
+package Practice_Que.src;
+
 import java.util.Scanner;
 
 public class OddEvenSum {

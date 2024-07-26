@@ -1,6 +1,6 @@
-//  package July_19;
+package July_23;//  package July_19;
 
-public class CoinCombination {
+public class CombinationSum {
     static int arr[]={1,2,3,4,5};
     public static void main(String[] args) {
         int a=6;

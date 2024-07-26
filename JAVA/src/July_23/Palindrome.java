@@ -1,4 +1,4 @@
-// package July_23;
+package July_23;// package July_23;
 
 public class Palindrome {
     public static void main(String[] args) {

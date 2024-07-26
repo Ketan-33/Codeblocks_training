@@ -1,4 +1,4 @@
-// package July_23;
+package July_23;// package July_23;
 import java.util.*;
 public class PalindromePartitioning {
     public static void main(String[] args) {

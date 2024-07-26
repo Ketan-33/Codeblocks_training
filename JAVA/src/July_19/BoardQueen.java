@@ -1,4 +1,4 @@
-// package July_19;
+package July_19;// package July_19;
 
 public class BoardQueen {
     public static void main(String[] args) {

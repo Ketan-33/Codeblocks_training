@@ -1,4 +1,3 @@
-package July_18;
 import java.util.*;
 
 public class LetterCombination {
